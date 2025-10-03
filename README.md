@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1nv1sibl3" alt="1nv1sibl3" /></a> </p>
 
-- 🔭 I’m currently working on **CTFd Custom Theme**
+- 🔭 I’m currently working on **TourneyPlus.xyz**
 
-- 🌱 I’m currently learning **Minecraft Plugin Development**
+- 🌱 I’m currently learning **Minecraft Plugin Development & Full STACK Web Development**
 
 - 💬 Ask me about **CTFs, Ethical Hacking, Python**
 
 - 📫 How to reach me **contact@inv1s1bl3.xyz**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on discord: inv1s1bl3 (UID: 904280755734196224)</h3>
 <p align="left">
 </p>
 
