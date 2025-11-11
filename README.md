@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1nv1sibl3" alt="1nv1sibl3" /></a> </p>
 
-- 🔭 I’m currently working on **TourneyPlus.xyz**
+- 🔭 I’m currently working on **TourneyPlus.xyz** (A AI enabled esports SaaS platform)
 
 - 🌱 I’m currently learning **Minecraft Plugin Development & Full STACK Web Development**
 
