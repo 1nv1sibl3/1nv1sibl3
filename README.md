@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **CTFs, Ethical Hacking, Python**
 
-- 📫 How to reach me **contact@om-honrao.xyz**
+- 📫 How to reach me **inv1s1bl3@blitzhack.in**
 
 <h3 align="left">Connect with me on discord: inv1s1bl3 (UID: 904280755734196224)</h3>
 <p align="left">
