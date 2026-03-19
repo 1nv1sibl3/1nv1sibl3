@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=1nv1sibl3&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=1nv1sibl3&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
 </a>
 </p>
 
@@ -35,18 +35,18 @@
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=1nv1sibl3&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-private-stats-api.vercel.app/api?username=1nv1sibl3&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nv1sibl3&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-private-stats-api.vercel.app/api/top-langs/?username=1nv1sibl3&layout=compact&theme=radical&hide_border=true&size_weight=0.6&count_weight=0.4&langs_count=8" />
 
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Activity Graph
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=1nv1sibl3&theme=radical&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1nv1sibl3&theme=tokyo-night" />
 </p>
 
 ---
