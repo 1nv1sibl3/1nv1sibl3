@@ -41,7 +41,7 @@
 ### 🔥 GitHub Streak Counter
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=1nv1sibl3&theme=radical" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=1nv1sibl3&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
