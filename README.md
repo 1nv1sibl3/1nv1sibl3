@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **TourneyPlus.xyz** — AI powered esports SaaS platform  
+- 🔭 Currently building **TourneyPlus.xyz** — AI powered esports SaaS platform!  
 - 🌱 Learning **Minecraft Plugin Development & Full Stack Development**  
 - 💬 Ask me about **CTFs, Ethical Hacking, Python, Backend Development**  
 - 📫 Reach me at **inv1s1bl3@blitzhack.in**  
