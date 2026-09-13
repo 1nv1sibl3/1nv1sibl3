@@ -1,0 +1,44 @@
+name: Language stats card
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 3 * * *" # daily, off the busy minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # METRICS_TOKEN (optional): a classic personal access token with `repo`
+      # scope. With it, the regenerated language card includes private
+      # repositories. Without it, this job leaves the committed card
+      # untouched — refresh locally instead: `python scripts/gen_languages.py`
+      # (picks up `gh auth token` automatically).
+      - name: Generate language card
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_USER: 1nv1sibl3
+        run: python scripts/gen_languages.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/languages.svg
+          if git diff --cached --quiet; then
+            echo "language card unchanged"
+          else
+            git commit -m "chore: refresh language stats card"
+            git push
+          fi
